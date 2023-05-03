@@ -1,4 +1,4 @@
-# CSS Validation Lab: Issue Bot 9000
+# CSS Validation Lab: Issue Bot 9000 - rosh
 
 ## Learning Goals
 
